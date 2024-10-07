@@ -59,7 +59,7 @@ In JavaScript, objects are collections of key-value pairs, where keys are string
 
 const person = {
   name: "Mani M",
-  age: 22,
+  age: 29,
   email: "manicivil@gmail.com"
 };
 Internal Representation of Objects
@@ -68,6 +68,6 @@ Internally, JavaScript engines use various data structures to represent objects 
 Internal Representation:
 {
   name: "Mani M",
-  age: 22,
+  age: 29,
   email: "manicivil@gmail.com"
 }
